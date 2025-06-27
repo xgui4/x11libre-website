@@ -161,10 +161,7 @@ div.quicklink {
 	border-right: 1px dotted #ccc;
 	width: 200px;
    overflow: auto;
-}
-
-div.install {
-   margin-left: 200px;
+   margin-right: 30px;
 }
 
 /* responsive */
