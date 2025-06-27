@@ -81,9 +81,13 @@ a {
 }
 
 /* general layout */
+main {
+    margin: 20px 20px 20px 20px;
+}
+
 #main-content {
     width: 97%;
-    margin: 0 auto;
+    margin: 20px 20px 20px 20px;
     text-align: left;
 }
 
