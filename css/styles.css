@@ -103,7 +103,7 @@ main {
 #content-right {
     float: left;
     width: 300px;
-    margin-left: -300px;
+    /* margin-left: -300px; */
 }
 
 div.nav-border {
