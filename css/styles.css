@@ -152,12 +152,15 @@ code {
 main pre {
    font-family: monospace, monospace;
    margin: 1em;
+   border-bottom: 1px solid #31373d;
+   border-radius: 3px;
 }
 
 main pre code {
     padding: 20px 20px 20px 30px;
     display: block;
     overflow: auto;
+    box-shadow: -5px 0px 20px 1px #000 inset;
 }
 
 div.quicklink {
