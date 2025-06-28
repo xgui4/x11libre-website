@@ -160,7 +160,7 @@ main pre code {
     padding: 20px 20px 20px 30px;
     display: block;
     overflow: auto;
-    box-shadow: -5px 0px 20px 1px #000 inset;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 0px, rgba(0, 0, 0, 0.8) 0px 1px 7px 0px inset;
 }
 
 div.quicklink {
