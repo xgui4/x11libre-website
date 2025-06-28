@@ -119,6 +119,12 @@ div.nav-border {
     padding: 0;
 }
 
+/* highlight Wiki link in navbar */
+.navbar-nav > li:nth-child(4) {
+    text-decoration: underline;
+    text-decoration-color: #78b2c3;
+}
+
 .right {
 	float: right;
 	margin: 0;
