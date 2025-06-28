@@ -101,6 +101,10 @@ main {
     margin: 0 340px 0 0;
 }
 
+#content-sep {
+    padding-top: 360px;
+}
+
 #content-right {
     float: left;
     width: 100%;
