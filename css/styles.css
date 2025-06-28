@@ -155,9 +155,9 @@ main pre {
 }
 
 main pre code {
-   padding:10px;
-   display: block;
-   overflow: auto;
+    padding: 10px 10px 10px 35px;
+    display: block;
+    overflow: auto;
 }
 
 div.quicklink {
