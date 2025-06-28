@@ -83,6 +83,7 @@ a {
 /* general layout */
 main {
     margin: 20px 20px 20px 20px;
+    min-height: 800px;
 }
 
 #main-content {
