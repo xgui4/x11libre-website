@@ -149,12 +149,12 @@ code {
   padding: 0 3px;
 }
 
-pre {
+main pre {
    font-family: monospace, monospace;
    margin: 1em;
 }
 
-pre code {
+main pre code {
    padding:10px;
    display: block;
    overflow: auto;
