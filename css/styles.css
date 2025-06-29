@@ -164,7 +164,7 @@ main pre code {
 }
 
 div.quicklink {
-   height: 200vh;
+   height: 100vh;
    position: sticky;
    z-index: 1;
    top: 0;
