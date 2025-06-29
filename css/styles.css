@@ -92,6 +92,10 @@ main {
     text-align: left;
 }
 
+.install ul {
+    margin-left: 195px;
+}
+
 #content-left-wrapper {
     float: left;
     width: 100%; /* req to keep content above sidebar in source code */
