@@ -155,7 +155,7 @@ main pre {
 }
 
 main pre code {
-    padding: 10px 10px 10px 35px;
+    padding: 35px 35px 35px 35px;
     display: block;
     overflow: auto;
 }
