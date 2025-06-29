@@ -122,7 +122,7 @@ div.nav-border {
 }
 
 /* highlight Wiki link in navbar */
-.navbar-nav > li:nth-child(4) {
+.navbar-nav > li:nth-child(6) {
     text-decoration: underline;
     text-decoration-color: #78b2c3;
 }
