@@ -1,0 +1,18 @@
+- name: Home
+  page: /
+  link: /x11libre-website/
+- name: Drivers
+  page: /drivers.html
+  link: /x11libre-website/drivers.html
+- name: About
+  page: /about.html
+  link: /x11libre-website/about.html
+- name: Download
+  page: /download.html
+  link: /x11libre-website/download.html
+- name: FAQ & Privacy
+  page: /faq.html
+  link: /x11libre-website/faq.html
+- name: Wiki
+  page: /wiki.html
+  link: /x11libre-website/wiki.html
