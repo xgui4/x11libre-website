@@ -16,11 +16,7 @@ This is the website for the X11Libre porject is an open-source initiative focuse
 
 To contribute or deploy the website:
 
-```bash
-git clone https://github.com/metux/x11libre-website.git
-cd x11libre-website
-# Follow project-specific setup instructions
-```
+<!-- to be rewittent !-->
 
 ## License
 
