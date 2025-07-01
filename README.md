@@ -1,4 +1,4 @@
-# x11libre-website
+# x11libre-website - Old Static version before i can fix the new version
 
 A website for the X11Libre (A fork of [Xorg XServer](https://gitlab.freedesktop.org/xorg/xserver)) project by @metux and open source contributors
 
