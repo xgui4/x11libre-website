@@ -15,7 +15,7 @@ This is the website for the X11Libre project is an Free/Libre and Open Source (F
 - No cookie, no tracking 
 - 100% Static (No dynamic or server related function)
 - Work without CSS, JavaSript
-- Mobile Friendly 
+- Mobile Friendly (adaptive)
 - Accessible 
 
 ## Run / Debug the website
