@@ -12,6 +12,7 @@ This is the website for the X11Libre project is an Free/Libre and Open Source (F
 - TailwindCSS
 - Jekyll
 - Github Pages
+- Works without JavaScript
 - No cookies, no tracking 
 - 100% Static (No dynamic or server related functions)
 - Mobile Friendly (adaptive)
