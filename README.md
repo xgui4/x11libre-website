@@ -9,22 +9,27 @@ This is the website for the X11Libre project is an Free/Libre and Open Source (F
 ## Features
 
 - HTML, Markdown and CSS 
-- TailwandCSS
+- TailwindCSS
 - Jekyll
 - Github Pages
-- No cookie, no tracking 
-- 100% Static (No dynamic or server related function)
-- Work without CSS, JavaSript
+- No cookies, no tracking 
+- 100% Static (No dynamic or server related functions)
 - Mobile Friendly (adaptive)
 - Accessible 
 
 ## Run / Debug the website
 
-```bash
-
-bundle exec jekyll serve # on the root of the project
-
+First run `bundle` to sync dependencies:
+``` bash
+bundle
 ```
+
+Then run this to serve the site in development mode:
+```bash
+bundle exec jekyll serve # on the root of the project
+```
+
+Visit `http://127.0.0.1:4000/x11libre-website` to see the site.
 
 ## License
 
