@@ -27,13 +27,6 @@ baseurl: "/x11libre-website" # the subpath of your site, e.g. /blog
 url: "https://xgui4.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: xgui4
 
-# _config.yml
-plugins:
-  - jekyll-postcss
-
-postcss:
-  cache: false # disable cache in favor of Tailwind CSS JIT engine
-
 # Build settings
 #plugins:
 #  - jekyll-feed
