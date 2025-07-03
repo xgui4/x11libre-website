@@ -4,22 +4,26 @@ A website for the X11Libre (A fork of [Xorg XServer](https://gitlab.freedesktop.
 
 ## About
 
-This is the website for the X11Libre porject is an open-source initiative focused on providing a modern, libre implementation of the X11 protocol and related tools.
+This is the website for the X11Libre project is an Free/Libre and Open Source (FLOSS) project focused on providing a modern, libre implementation of the X11 protocol and related tools.
 
 ## Features
 
-- Open-source and community-driven
-- Modern web technologies
-- Documentation and resources for developers
+- HTML, Markdown and CSS 
+- TailwandCSS
+- Jekyll
+- Github Pages
+- No cookie, no tracking 
+- 100% Static (No dynamic or server related function)
+- Work without CSS, JavaSript
+- Mobile Friendly 
+- Accessible 
 
-## Getting Started
-
-To contribute or deploy the website:
+## Run / Debug the website
 
 ```bash
-git clone https://github.com/metux/x11libre-website.git
-cd x11libre-website
-# Follow project-specific setup instructions
+
+bundle exec jekyll serve # on the root of the project
+
 ```
 
 ## License
