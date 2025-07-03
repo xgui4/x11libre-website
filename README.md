@@ -9,22 +9,28 @@ This is the website for the X11Libre project is an Free/Libre and Open Source (F
 ## Features
 
 - HTML, Markdown and CSS 
-- TailwandCSS
+- TailwindCSS
 - Jekyll
 - Github Pages
-- No cookie, no tracking 
-- 100% Static (No dynamic or server related function)
-- Work without CSS, JavaSript
+- Works without JavaScript
+- No cookies, no tracking 
+- 100% Static (No dynamic or server related functions)
 - Mobile Friendly (adaptive)
 - Accessible 
 
 ## Run / Debug the website
 
-```bash
-
-bundle exec jekyll serve # on the root of the project
-
+First run `bundle` to sync dependencies (only needs to be run once or after changing the Gemfile):
+``` bash
+bundle
 ```
+
+Then run this to serve the site in development mode:
+```bash
+bundle exec jekyll serve # on the root of the project
+```
+
+Visit `http://127.0.0.1:4000/x11libre-website` to see the site.
 
 ## License
 
@@ -34,4 +40,4 @@ This project is licensed under the MIT License.
 
 For questions or contributions, please open an issue or contact [@metux](https://github.com/metux).
 
-### Made by [@xgui4](https://github.com/xgui4) and [@ChocodeerZyNX](https://github.com/ChocodeerZyNX) and [@yusi1](https://github.com/yuzi1) and also infor and codes from [x11libre.net](https://x11libre.net)
+### Made by [@xgui4](https://github.com/xgui4) and [@ChocodeerZyNX](https://github.com/ChocodeerZyNX) and [@yusi1](https://github.com/yusi1) and also infor and codes from [x11libre.net](https://x11libre.net)
