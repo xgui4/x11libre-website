@@ -8,11 +8,6 @@ XLibre Xserver
 
 Xlibre is a fork of the [Xorg Xserver](https://gitlab.freedesktop.org/xorg/xserver) with lots of code cleanups and enhanced functionality.
 
-[Latest Changes](#latestChanges) [Github](https://github.com/X11Libre/xserver)
-
-Xlibre is a fork of the [Xorg Xserver](https://gitlab.freedesktop.org/xorg/xserver)
-with lots of code cleanups and enhanced functionality.
-
 This fork was necessary since toxic elements within Xorg projects, moles
 from BigTech, are boycotting any substantial work on Xorg, in order to
 destroy the project, to eliminate competition of their own products.
@@ -31,7 +26,9 @@ discriminatory policies. Anybody who's treating others nicely is welcomed.
 It doesn't matter which country you're coming from, your political views,
 your race, your sex, your age, your food menu, whether you wear boots or
 heels, whether you're furry or fairy, Conan or McKay, comic character, a
-small furry creature from Alpha Centauri, or just a boring average person.
+small furry creature from Alpha Centauri, or litterally everyone else. 
+Even neurodivergent contributors are welcome and accepted. 
+
 Anybody who's interested in bringing X forward is welcome. 
 
 Together we'll make X great again!

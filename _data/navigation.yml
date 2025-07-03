@@ -1,9 +1,7 @@
 - name: Home
   page: /
   link: /x11libre-website/
-- name: Drivers
-  page: /drivers.html
-  link: /x11libre-website/drivers.html
+  link: /x11libre-website/index.html
 - name: About
   page: /about.html
   link: /x11libre-website/about.html
