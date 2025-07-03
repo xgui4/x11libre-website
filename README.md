@@ -19,7 +19,7 @@ This is the website for the X11Libre project is an Free/Libre and Open Source (F
 
 ## Run / Debug the website
 
-First run `bundle` to sync dependencies:
+First run `bundle` to sync dependencies (only needs to be run once or after changing the Gemfile):
 ``` bash
 bundle
 ```
