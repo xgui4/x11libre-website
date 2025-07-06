@@ -1,4 +1,5 @@
-# x11libre-website
+# x11libre-website 
+## OLD REPO, PLS GO TO [xgui4:xlibre](httpd://github.com/xgui4/xlibre), it is easier to update it directly than a different repo
 
 A website for the X11Libre (A fork of [Xorg XServer](https://gitlab.freedesktop.org/xorg/xserver)) project by @metux and open source contributors
 
